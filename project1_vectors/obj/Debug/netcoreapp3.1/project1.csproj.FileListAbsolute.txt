@@ -1,0 +1,13 @@
+/home/perdomix/project1/bin/Debug/netcoreapp3.1/project1
+/home/perdomix/project1/bin/Debug/netcoreapp3.1/project1.deps.json
+/home/perdomix/project1/bin/Debug/netcoreapp3.1/project1.runtimeconfig.json
+/home/perdomix/project1/bin/Debug/netcoreapp3.1/project1.runtimeconfig.dev.json
+/home/perdomix/project1/bin/Debug/netcoreapp3.1/project1.dll
+/home/perdomix/project1/bin/Debug/netcoreapp3.1/project1.pdb
+/home/perdomix/project1/obj/Debug/netcoreapp3.1/project1.csprojAssemblyReference.cache
+/home/perdomix/project1/obj/Debug/netcoreapp3.1/project1.AssemblyInfoInputs.cache
+/home/perdomix/project1/obj/Debug/netcoreapp3.1/project1.AssemblyInfo.cs
+/home/perdomix/project1/obj/Debug/netcoreapp3.1/project1.csproj.CoreCompileInputs.cache
+/home/perdomix/project1/obj/Debug/netcoreapp3.1/project1.dll
+/home/perdomix/project1/obj/Debug/netcoreapp3.1/project1.pdb
+/home/perdomix/project1/obj/Debug/netcoreapp3.1/project1.genruntimeconfig.cache
